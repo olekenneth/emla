@@ -31,7 +31,7 @@ footer_content: "Copyright &copy; 2019"
 
 # Build settings
 # theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
+remote_theme: artemsheludko/flexible-jekyll
 
 plugins:
   - jekyll-feed
