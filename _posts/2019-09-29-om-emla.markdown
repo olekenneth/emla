@@ -5,5 +5,12 @@ date: 2019-09-29 13:32:20 +0300
 img: henrik-larsen.jpg
 fig-caption: # Add figcaption (optional)
 ---
-Emla er et ... som ble stiftet i 2019 av Henrik E. Larsen. Vi gjør ... type arbeid innen bygg og anlegg.
+Emla er et stor selskap som ble stiftet i 2019 av Henrik E. Larsen. Vi gjør ... type arbeid innen bygg og anlegg.
 
+# Overskrift 1
+
+En tekst under
+
+## Overskrift 2
+
+Her kan du lese om hvordan du skriver "Markdown": https://guides.github.com/features/mastering-markdown/
