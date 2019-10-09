@@ -7,4 +7,12 @@ fig-caption: # Add figcaption (optional)
 
 ## Om Emla
 
-Emla Prosjekt AS ble startet sommeren 2019 
+Emla Prosjekt AS er et konsulentselskap som tilbyr rådgivningstjenester til både profesjonelle og private aktører innenfor bygg- og eiendomsbransjen med fokus på:
+
+* Prosjektledelse
+* Byggeledelse
+* Generell byggherrebistand
+* Eiendomsutvikling
+* Byggelånkontroll og bistand overfor banker i byggesaker
+* Bistand med forhånds- og overtakelsesbefaringer
+ 
