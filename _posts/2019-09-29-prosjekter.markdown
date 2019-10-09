@@ -5,6 +5,9 @@ date: 2019-09-29 13:45:20 +0300
 fig-caption: # Add figcaption (optional)
 ---
 
+
+
+
 ## Viksfjord Brygge
 * Kunde: Blender Gruppen AS
 * Kontraktsum: 41.250.000,-kr
