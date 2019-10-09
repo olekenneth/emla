@@ -5,12 +5,11 @@ date: 2019-09-29 13:32:20 +0300
 img: henrik-larsen.jpg
 fig-caption: # Add figcaption (optional)
 ---
-Emla er et stor selskap som ble stiftet i 2019 av Henrik E. Larsen. Vi gjør ... type arbeid innen bygg og anlegg.
+## Om Emla
 
-# Overskrift 1
-
-En tekst under
-
-## Overskrift 2
-
-Her kan du lese om hvordan du skriver "Markdown": https://guides.github.com/features/mastering-markdown/
+Emla Prosjekt AS ble startet sommeren 2019 av Henrik E. Larsen.
+Starten på karrieren var som tømrer lærling hvor utplassering startet i ung alder. Fra 16-19 år var det daglige og være utførende håndverker hvor svenneprøven ble tatt som 19 åring. Da gikk veien videre til Bergen og teknisk fagskole i bygg- og anlegg.
+Etter endt fagskole begynte Henrik som Tømrer i et større entreprenør firma i Drammen hvor det ble svært varierte oppgaver innenfor næringseiendom og private prosjekter. Ganske raskt ble det ansvar for flere og flere arbeidere og tekniske fag på prosjekter hvor det krevdes en god oppfølging for å kunne nå tidsfrister. Samtidig så var selvutvikling en stor del av hverdagen hvor prosjektleder skolen ble fulført vedsiden av jobben.
+Sommeren 2014 gikk veien videre til et annet entreprenør selskap i Drammen hvor stillingen gikk over som prosjekt direktør. Her hadde vi prosjekter over hele landet – Hotell, restauranter, butikker, kontorer og flerhus prosjekter hvor vi sto for leveransen av alle fag.  Mye av produktene som ble solgt til våre kunder her kom i fra Øst-Europa og gjorde da naturligvis at Henrik har opparbeidet et større leverandør nettverk i disse landene og ikke minst kjennskap til forretnings normene i landene.
+Under ansettelsen her så hadde Henrik nok en gang lysten på og utvikle seg selv og fullførte utdannelse som eiendomsforvalter igjennom Norges eiendoms akademi.
+Nå har erfaringene blitt mange, prosjektene har vokst, og over 13 års erfaring i bygge bransjen har gitt gode relasjoner, nettverk og kunnskap til at Emla Prosjekt AS ble opprettet.  
