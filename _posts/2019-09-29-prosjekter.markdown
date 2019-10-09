@@ -9,7 +9,7 @@ fig-caption: # Add figcaption (optional)
 
 
 ## Viksfjord Brygge
-* Kunde: Blender Gruppen AS
+* Kunde: Viksfjord Brygge AS
 * Kontraktsum: 41.250.000,-kr
 * Areal/Antall: 25 enheter
 * Utførelses tid: Vinter 2019-
@@ -17,7 +17,7 @@ fig-caption: # Add figcaption (optional)
 * Ansvarsområde: Kalkulasjon for Entreprenør, Kontrakt mot Byggherre, Kontrakt mot UEer, Kommunikasjon og oppfølging av Byggherre, sluttkunde og UEer, prosjektledelse, gjennomføring, Koordinering av alle fag.
 
 ## Myrbakkveien 
-* Kunde: Blender Gruppen AS
+* Kunde: MA Bygg AS
 * Kontraktsum: 5.400.000,-kr
 * Areal/Antall: 2 mannsbolig
 * Utførelses tid: Vår/vinter 2019
